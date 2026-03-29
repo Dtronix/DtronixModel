@@ -1,3 +1,5 @@
+> **⚠️ This project has been archived.** DtronixModel is superseded by [Quarry](https://github.com/Dtronix/Quarry), a compile-time SQL builder for .NET. See the [migration guide](https://dtronix.github.io/Quarry/articles/migrating-to-quarry.html) for details on switching.
+> 
 DtronixModel [![Build Status](https://github.com/Dtronix/DtronixModel/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Dtronix/DtronixModel/actions/workflows/dotnet.yml)
 ============
 
